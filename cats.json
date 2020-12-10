@@ -1,0 +1,29 @@
+{
+  "filters": ["Lorem", "ipsum", "dolor", "sit", "amet"],
+  "images": [
+    {
+      "imageUrl": "https://placekitten.com/300/300",
+      "altText": "Placeholder Kitten 1"
+    },
+    {
+      "imageUrl": "https://placekitten.com/300/300",
+      "altText": "Placeholder Kitten 2"
+    },
+    {
+      "imageUrl": "https://placekitten.com/300/300",
+      "altText": "Placeholder Kitten 3"
+    },
+    {
+      "imageUrl": "https://placekitten.com/300/300",
+      "altText": "Placeholder Kitten 4"
+    },
+    {
+      "imageUrl": "https://placekitten.com/300/300",
+      "altText": "Placeholder Kitten 5"
+    },
+    {
+      "imageUrl": "https://placekitten.com/300/300",
+      "altText": "Placeholder Kitten 6"
+    }
+  ]
+}
